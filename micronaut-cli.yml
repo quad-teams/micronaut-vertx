@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: team.quad.labs
+---
+testFramework: junit
+sourceLanguage: java
